@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/nipunbandara/nipunbandara/blob/main/devcard.svg" width="200" alt="NipunBandara's Dev Card"/></a>
 <br/>
-[<img src="https://readme-spotify-status-gilt.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/21u3dgikw4t56ivopbne5klhy)
+[<img src="https://readme-spotify-status-hssfzsw3z-nipunbandara.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/21u3dgikw4t56ivopbne5klhy)
 
