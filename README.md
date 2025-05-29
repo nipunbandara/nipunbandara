@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Visit my Blogs Page: <a href="https://nipunbandara.vercel.app/blogs" target="_blank">🔗 nipunbandara.vercel.app/blogs</a>
+Visit my Blogs Page: <a href="https://nipunbandara.vercel.app/blogs" target="_blank">🔗 nipunbandara.vercel.app/blogs</a>
 
 <!--
 **nipunbandara/nipunbandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
