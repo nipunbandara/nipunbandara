@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+#Thanks for visiting my GitHub page!
+
+I'm a **Software Engineer** currently training to become an **AI Engineer**.
+
+🚀 I'm focusing on building applications that integrate **AI model APIs** into real-world solutions.
+
+---
+
+Feel free to explore my repositories and follow along as I learn and grow in the AI space!
+
+
 Visit my Blogs Page: <a href="https://nipunbandara.vercel.app/blogs" target="_blank">🔗 nipunbandara.vercel.app/blogs</a>
 
 <!--
