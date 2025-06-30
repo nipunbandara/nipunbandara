@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#Thanks for visiting my GitHub page!
+# Thanks for visiting my GitHub page! 
 
 I'm a **Software Engineer** currently training to become an **AI Engineer**.
 
